@@ -6,14 +6,6 @@ Clevr  is an app that learns acoustic concepts from natural language supervision
 
 First, install python 3.8 or higher (3.11 recommended). Then, install Clevr using either of the following:
 
-```shell
-# Install pypi pacakge
-pip install msclap
-
-# Or Install latest (unstable) git source
-pip install git+https://github.com/microsoft/CLAP.git
-```
-
 ## Clevr weights
 
 Clevr is the audio captioning model that uses the 2023 encoders.
